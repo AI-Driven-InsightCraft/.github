@@ -1,4 +1,4 @@
-# AIGC-BI-Platform
+# AI-Driven-InsightCraft
 
 A full-stack intelligent data analysis platform developed using Springboot and React
 Developed automatic generation of visual charts and analysis
