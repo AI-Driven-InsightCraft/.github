@@ -16,6 +16,7 @@ Developed automatic generation of visual charts and analysis
 * MyBatis-Plus + MyBatis X
 * Redis + Redisson
 * RabbitMQ
+* OpenAI
 * YCM-AI SDK
 * Easy Excel
 * Swagger + Knife4j
